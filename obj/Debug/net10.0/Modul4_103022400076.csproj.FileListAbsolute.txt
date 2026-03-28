@@ -1,0 +1,5 @@
+C:\Users\zulfa\source\repos\Modul4_103022400076\Modul4_103022400076\obj\Debug\net10.0\Modul4_103022400076.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfa\source\repos\Modul4_103022400076\Modul4_103022400076\obj\Debug\net10.0\Modul4_103022400076.AssemblyInfoInputs.cache
+C:\Users\zulfa\source\repos\Modul4_103022400076\Modul4_103022400076\obj\Debug\net10.0\Modul4_103022400076.AssemblyInfo.cs
+C:\Users\zulfa\source\repos\Modul4_103022400076\Modul4_103022400076\obj\Debug\net10.0\Modul4_103022400076.csproj.CoreCompileInputs.cache
+C:\Users\zulfa\source\repos\Modul4_103022400076\Modul4_103022400076\obj\Debug\net10.0\Modul4_103022400076.sourcelink.json
